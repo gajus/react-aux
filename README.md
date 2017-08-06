@@ -68,3 +68,23 @@ const Root = () => {
 ```
 
 You will know exactly what is the intent of the code.
+
+## FAQ
+
+### Whats the difference from using an array?
+
+You can use an array if you assign each `React$Element` a pseudo-property `key` with a unique value, e.g. 
+
+```js
+import Aux from 'react-aux';
+
+const Root = () => {
+  return [
+    <p key='p1'>Hello, World!</p>,
+    <p key='p2'>I am a demo for react-aux.</p>
+  ];
+};
+
+```
+
+However, it requires manually ensuring key uniqueness and I am to [lazy](http://threevirtues.com/) for this.
