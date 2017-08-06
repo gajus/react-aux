@@ -1,0 +1,18 @@
+{
+  "description": "A self-eradicating component for rendering multiple elements.",
+  "keywords": [
+    "react"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "./src/Aux.js",
+  "name": "react-aux",
+  "peerDependencies": {
+    "react": "^16.0.0-beta.3",
+    "react-dom": "^16.0.0-beta.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gajus/react-aux.git"
+  },
+  "version": "1.0.0"
+}
