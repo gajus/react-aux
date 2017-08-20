@@ -69,6 +69,10 @@ const Root = () => {
 
 You will know exactly what is the intent of the code.
 
+## Related articles
+
+* [Using React v16 to create self-destructing components](https://medium.com/@gajus/using-react-v16-to-create-self-destructing-components-de8e4eb61d0f)
+
 ## FAQ
 
 ### Whats the difference from using an array?
