@@ -92,3 +92,7 @@ const Root = () => {
 ```
 
 However, it requires manually ensuring key uniqueness and I am to [lazy](http://threevirtues.com/) for this.
+
+### Whats with the name?
+
+"aux" is a convention I've been using ever since I remember starting to write HTML/ CSS. Auxiliary element is something that does not have semantic purpose but exist for the purpose of grouping elements, styling, etc.
