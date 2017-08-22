@@ -1,3 +1,1 @@
-module.exports = (props) => {
-  return props.children;
-};
+module.exports = props => props.children
