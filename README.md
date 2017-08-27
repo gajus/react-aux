@@ -91,7 +91,7 @@ const Root = () => {
 
 ```
 
-However, it requires manually ensuring key uniqueness and I am to [lazy](http://threevirtues.com/) for this.
+However, it requires manually ensuring key uniqueness and I am too [lazy](http://threevirtues.com/) for this.
 
 ### Whats with the name?
 
