@@ -5,6 +5,10 @@
 
 A self-eradicating component for rendering multiple elements.
 
+## If You Use React 16.2 or Higher
+
+Reat 16.2 [includes support for a new `React.Fragment` API](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html) which works very similar to this library. If you don't know which one to pick, we recommend the version provided by React. This library mostly exists for those who can't upgrade to React 16.2 yet.
+
 ## Motivation
 
 Prior to React v16, returning multiple elements from a component required to wrap them in an auxiliary element, e.g.
